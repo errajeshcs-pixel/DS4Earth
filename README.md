@@ -33,7 +33,7 @@ AI-based climate anomaly detection
  API-first architecture for integration
 # System Architecture
  
-Data Sources → Data Pipeline → Databricks Medallion Architecture → AI Models → API Layer → Dashboard
+Data Sources → Data Pipeline(ETL) → Databricks Medallion Architecture → AI Models → ML Models/Dashboard
 <img width="1145" height="613" alt="DS4Earth Architecture" src="https://github.com/user-attachments/assets/001d3546-5ab6-467e-b7e1-f3426b09cf3d" />
 
 # Core Design Principles:
