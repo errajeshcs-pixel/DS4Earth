@@ -55,6 +55,7 @@ Built and trained machine learning models
 Led product vision from research → implementation    
 # Research & Academic Validation 
 Research & Academic Validation
+
 Built using real-world industry exposure from Severn Trent Water and Tata Consultancy Services, combined with modern data engineering practices leveraging platforms such as Databricks (Medallion Architecture) and Microsoft Azure.
 Originally initiated as part of MTech (Data Science & Engineering)at Birla Institute of Technology and Science, Pilani
 
