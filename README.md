@@ -1,6 +1,6 @@
 # DS4Earth : AI-Powered Climate Intelligence Platform
 
-A data science–driven platform transforming climate data into actionable, real-time insights using AI, geospatial analytics, and scalable cloud infrastructure.
+A data science–driven platform transforming climate data into actionable, real-time insights using AI, geospatial analytics and scalable cloud infrastructure.
 
 ## Overview
 DS4Earth is an AI-powered climate intelligence platform developed to address the growing complexity of climate data and environmental risk analysis. DS4Earth has been architected as a scalable, product-led digital platform with real-world applicability across:   
