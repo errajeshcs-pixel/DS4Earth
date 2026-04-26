@@ -29,7 +29,7 @@ AI-based climate anomaly detection
  Predictive modeling for environmental risks
  Satellite and geospatial data processing
  Interactive dashboards for visualization
- API-first architecture for integration
+ API-first architecture for integration.
 # System Architecture
  
 Data Sources → Data Pipeline(ETL) → Databricks Medallion Architecture → AI Models → ML Models/Dashboard
