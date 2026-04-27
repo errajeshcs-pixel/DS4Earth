@@ -91,7 +91,7 @@ DS4Earth is designed to evolve into a full-scale climate intelligence platform, 
 Governments → policy decision support   
 Enterprises → climate risk assessment    
 Researchers → data-driven environmental insights    
-test test
+test test test
 # Collaboration & Use Cases   
 Open to:  -
 Climate-tech partnerships  
