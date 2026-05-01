@@ -93,7 +93,7 @@ Enterprises → climate risk assessment
 Researchers → data-driven environmental insights    
 test test
 # Collaboration & Use Cases   
-Open to:  -
+Open to: 
 Climate-tech partnerships  
 Research collaborations  
 Enterprise and government deployments  
