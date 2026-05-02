@@ -60,7 +60,7 @@ Built using real-world industry exposure from Severn Trent Water and Tata Consul
 Originally initiated as part of MTech (Data Science & Engineering)at Birla Institute of Technology and Science, Pilani
 
 # Intellectual Property
-A patent application (Application No: GB2607483.1) has been filed with the Intellectual Property Office for innovations in AI-driven climate intelligence, reinforcing the platform’s originality and technical depth...
+A patent application (Application No: GB2607483.1) has been filed with the Intellectual Property Office for innovations in AI-driven climate intelligence, reinforcing the platform’s originality and technical depth.
 
 # Tech Stack
 
