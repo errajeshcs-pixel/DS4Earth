@@ -7,7 +7,7 @@ DS4Earth is an AI-powered climate intelligence platform developed to address the
 Environmental monitoring   
 Satellite data analysis    
 Climate risk modeling    
-Real-time data processing    
+Real-time data processing    ,
 
 # Problem Statement
 Climate data ecosystems today suffer from:   
