@@ -28,7 +28,7 @@ Provides decision-ready outputs via APIs and dashboards
 AI-based climate anomaly detection
  Predictive modeling for environmental risks
  Satellite and geospatial data processing
- Interactive dashboards for visualization
+ Interactive dashboards for visualization.
  API-first architecture for integration.
 # System Architecture
  
