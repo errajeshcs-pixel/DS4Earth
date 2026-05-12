@@ -12,7 +12,7 @@ Real-time data processing    ,
 # Problem Statement
 Climate data ecosystems today suffer from:   
 Fragmentation across multiple sources (satellite, IoT and  open datasets)   
-Lack of real-time processing capabilities    
+Lack of real-time processing capabilities.    
 Limited accessibility for decision-makers.   
 
 This results in delayed insights and ineffective climate response strategies.   
