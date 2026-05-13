@@ -96,6 +96,6 @@ test test
 Open to:- 
 Climate-tech partnerships  
 Research collaborations  
-Enterprise and government deployments  
+Enterprise and government deployments.  
 # Contact
 LinkedIn:https://www.linkedin.com/in/rajesh-kumar-singh-0b289415/  Email: (errajeshcs@gmail.com)
