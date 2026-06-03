@@ -21,7 +21,7 @@ This results in delayed insights and ineffective climate response strategies.
 DS4Earth introduces a unified AI-driven climate intelligence layer that:
 
 Aggregates multi-source environmental data.
-Applies machine learning for predictive insights
+Applies machine learning for predictive insights.
 Enables real-time analytics for climate events
 Provides decision-ready outputs via APIs and dashboards
 # Key Features
