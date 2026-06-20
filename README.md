@@ -22,7 +22,7 @@ DS4Earth introduces a unified AI-driven climate intelligence layer that:
 
 Aggregates multi-source environmental data.
 Applies machine learning for predictive insights.
-Enables real-time analytics for climate events
+Enables real-time analytics for climate events.
 Provides decision-ready outputs via APIs and dashboards
 # Key Features
 AI-based climate anomaly detection
