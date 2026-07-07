@@ -41,7 +41,7 @@ Modular microservices architecture
 Optimized for high-volume geospatial data   . 
 
  # Impact & Technical Outcomes   
-Enabled processing of large-scale environmental datasets    
+Enabled processing of large-scale environmental datasets  .  
 Improved efficiency in climate data analysis workflows   
 Demonstrated feasibility of real-time AI-driven climate insights   
 Processed 200K+ data points/day   
