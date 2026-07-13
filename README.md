@@ -38,7 +38,7 @@ Data Sources → Data Pipeline(ETL) → Databricks Medallion Architecture → AI
 # Core Design Principles:
 Cloud-native and scalable    
 Modular microservices architecture   
-Optimized for high-volume geospatial data   . 
+Optimized for high-volume geospatial data
 
  # Impact & Technical Outcomes   
 Enabled processing of large-scale environmental datasets  .  
