@@ -3,8 +3,8 @@
 A data science–driven platform transforming climate data into actionable, real-time insights using AI, geospatial analytics and scalable cloud infrastructure.
 <table align="center">
   <tr>
-    <th>Dashboard 1: Presentation d</th>
-    <th>Dashboard 2: Certificate </th>
+    <th>Presentation d</th>
+    <th>Certificate </th>
   </tr>
   <tr>
     <td align="center">
