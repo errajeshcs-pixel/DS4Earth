@@ -99,7 +99,7 @@ Tableau for dashboards
 Global-scale climate data integration  
 Advanced AI models for prediction  
 Real-time alerting systems  
-Integration with policy and governance frameworks  
+Integration with policy and governance frameworks . 
 # Product Vision   
 DS4Earth is designed to evolve into a full-scale climate intelligence platform, enabling:   
 Governments → policy decision support   
